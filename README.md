@@ -90,8 +90,7 @@ The goal is to answer critical retail business questions:
 
 | # | Dataset | Description | Link |
 |---|---|---|---|
-| 1 | Retail Sales Dataset 1 | Primary transaction records | [Download](#) |
-| 2 | Retail Sales Dataset 2 | Supplementary customer data | [Download](#) |
+| 1 | Retail Sales Dataset 1 | Primary transaction records | [Download](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_prop1_Level1/blob/70b8a9c477ef261b9f9e3c90ec51bee342a7c9dc/Data/Clean_Retails_salesData.csv) |
 
 **Data Coverage:** January 2023 — October 2023
 
