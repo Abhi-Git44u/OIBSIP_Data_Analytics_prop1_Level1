@@ -64,7 +64,7 @@ The goal is to answer critical retail business questions:
 
 ### Retail Performance & Consumer Insights Dashboard
 
-![image alt](
+![image alt](https://github.com/Abhi-Git44u/OIBSIP_Data_Analytics_prop1_Level1/blob/4dfdcfbeba360b5580b88859bf081af291558683/Visuals/Retail_Dashboard.png)
 
 
 ---
