@@ -17,7 +17,6 @@
 
 <img src="https://img.shields.io/badge/Level-1%20Project-gold?style=flat-square"/> &nbsp;
 <img src="https://img.shields.io/badge/Domain-Retail%20Analytics-blue?style=flat-square"/> &nbsp;
-<img src="https://img.shields.io/badge/Records-367K%20Sales-purple?style=flat-square"/> &nbsp;
 <img src="https://img.shields.io/badge/Customers-813%20Unique-red?style=flat-square"/>
 
 </div>
