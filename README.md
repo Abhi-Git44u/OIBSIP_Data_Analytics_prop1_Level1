@@ -63,31 +63,7 @@ The goal is to answer critical retail business questions:
 <div align="center">
 
 ### Retail Performance & Consumer Insights Dashboard
-*Built in Power BI — Jan 2023 to Oct 2023*
 
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║         RETAIL PERFORMANCE & CONSUMER INSIGHTS DASHBOARD        ║
-╠══════════╦═══════════════╦══════════════════════╦═══════════════╣
-║  367K    ║     2054      ║     ₹ 451.85         ║      813      ║
-║  Total   ║  Total Units  ║  Avg Transaction     ║    Total      ║
-║  Sales   ║    Sold       ║                      ║  Customers    ║
-╠══════════╩═══════════════╩══════════════════════╩═══════════════╣
-║  Sales by Day (Trend)    ║  Sales by Age Group                  ║
-║  ~~~~^~~~^~~^~~~^~~~~    ║  25-35: ████████ 88K                 ║
-║                          ║  46-55: ███████  79K                 ║
-║                          ║  55+:   ██████   72K                 ║
-║                          ║  36-45: █████    70K                 ║
-║                          ║  <25:   ████     58K                 ║
-╠══════════════════════════╬══════════════════════════════════════╣
-║  Sales by Category       ║  Sales by Gender                     ║
-║  Clothing    ██████████  ║       ◉ Female                       ║
-║  Electronics █████████   ║       ◉ Male                         ║
-║  Beauty      ████████    ║                                      ║
-╚══════════════════════════╩══════════════════════════════════════╝
-```
 
 ---
 
