@@ -64,6 +64,8 @@ The goal is to answer critical retail business questions:
 
 ### Retail Performance & Consumer Insights Dashboard
 
+![image alt](
+
 
 ---
 
